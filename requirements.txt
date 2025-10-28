@@ -1,0 +1,11 @@
+PyPDF2==3.0.1
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-core==0.3.78
+langchain-openai==0.3.35
+langchain-text-splitters==0.3.11
+faiss-cpu==1.12.0
+langgraph==0.6.10
+langgraph-checkpoint==2.1.2
+langgraph-prebuilt==0.6.4
+langgraph-sdk==0.2.9
