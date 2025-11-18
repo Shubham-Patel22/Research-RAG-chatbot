@@ -1,1 +1,5 @@
 .env
+faiss_index/
+pdfs/
+__pycache__/
+arxivData.json
